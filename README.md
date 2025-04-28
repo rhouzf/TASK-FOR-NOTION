@@ -27,7 +27,7 @@ i tried both my local DNS server and Google's public dns (8.8.8.8) are unable to
 i got this message"** server can't find internal.example.com: NXDOMAIN"
 2.  Diagnose Service Reachability:
 i can't because i don't have the resolved ip
-3.  Trace the Issue – List All Possible Causes
-misconfigured DNS Server
-the domain internal.example.com might not have a valid DNS record in the local or public DNS server
+3.  Trace the Issue – List All Possible Causes:
+misconfigured DNS Server,
+the domain internal.example.com might not have a valid DNS record in the local or public DNS server,
 another service might be using the same port 
